@@ -1,0 +1,17 @@
+{
+  "name": "selft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js-selfbot-v13": "^2.9.19",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  }
+}
